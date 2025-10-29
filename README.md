@@ -1,1 +1,1 @@
-# Beautiful-Binary-String-algo
+# Beautiful-Binary-String-algo The function counts how many times the substring "010" appears, since each must be changed to make the string beautiful. After finding one occurrence, it skips the next two characters to prevent overlapping matches.
